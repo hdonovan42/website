@@ -2,7 +2,7 @@
 personal website
 
 ## features to add
--add globe to location - DONE
--add table of contents at the top (home, blog, projects, etc)
--create blog template
--add arrows to socials hyperlinks 
+### appearance of socials links
+### table of contents?
+### blog format?
+### how to add symbol that appears in tabs?
